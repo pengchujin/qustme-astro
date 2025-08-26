@@ -75,6 +75,9 @@ export const userConfig: Partial<UserConfig> = {
   },
   comment: {
     // disqus: { shortname: "typography-astro" },
+    twikoo: {
+      envId: 'https://twikoo.qust.me'
+    },
   },
   analytics: {
     googleAnalyticsId: '',
