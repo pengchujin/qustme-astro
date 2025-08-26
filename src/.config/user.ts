@@ -19,7 +19,7 @@ export const userConfig: Partial<UserConfig> = {
         href: 'https://x.com/pengchujin',
       },
       {
-        name: 'weibo',
+        name: 'sina-weibo',
         href: 'https://weibo.com/pengchujin',
       },
     ],
