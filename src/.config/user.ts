@@ -18,6 +18,10 @@ export const userConfig: Partial<UserConfig> = {
         name: 'twitter',
         href: 'https://x.com/pengchujin',
       },
+      {
+        name: 'weibo',
+        href: 'https://weibo.com/pengchujin',
+      },
     ],
     navLinks: [
       {
