@@ -20,7 +20,7 @@ export const userConfig: Partial<UserConfig> = {
       },
       {
         name: 'sina-weibo',
-        href: 'https://weibo.com/pengchujin',
+        href: 'https://weibo.com/u/3138279871',
       },
     ],
     navLinks: [
